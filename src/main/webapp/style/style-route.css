@@ -1,0 +1,393 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    background: url(login-screen.jpg) no-repeat;
+    background-size: cover;
+}
+
+#container{
+    width: 1600px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#logo {
+    color: white;
+    margin-top: 20px;
+    font-size: 44px;
+    letter-spacing: 3px;
+}
+
+.menu {
+    background-color: #303030;
+    color: white;
+    padding: 6px;
+    margin-top: 20px;
+    height: 65px;
+}
+
+.topmenu{
+    float: left;
+    padding: 10px;
+    width: 496px;
+}
+
+#search{
+    float: left;
+    padding: 10px;
+    width: 496px;
+    /*border: 2px solid white;*/
+}
+
+.thing{
+    float: left;
+    margin-left: auto;
+    margin-right: auto;
+    background: #fff;
+    border: 1px solid #000;
+    width: 400px;
+    height: 40px;
+    position: relative;
+    overflow: hidden;
+    border-radius: 20px;
+}
+
+.thing .thing-label{
+    width: 100%;
+    position: absolute;
+    line-height: 40px;
+    color: #000;
+    left: 50px;
+    z-index: 1;
+    font-size: 20px;
+}
+
+.thing .thing-text{
+    padding-left: 40px;
+    width: 0;
+    border: none;
+    cursor: pointer;
+    position: relative;
+    z-index: 11;
+    background: #e91e63;
+    font-size: 20px;
+}
+
+.thing .thing-text:focus{
+    width: 90%;
+    outline: none;
+    cursor: text;
+    background: #fff;
+}
+
+.thing .thing-text:focus + .thing-btn{
+    opacity: 1;
+    left: 320px;
+    z-index: 11;
+    background: #e91e63;
+    font-size: 20px;
+}
+
+.thing .thing-btn{
+    position: absolute;
+    z-index: -11;
+    opacity: 0;
+    left: 0;
+    border: none;
+    top: 0;
+    cursor: pointer;
+    width: 80px;
+    height: 50px;
+    color: white;
+}
+
+.thing .thing-label, .thing .thing-text, .thing .thing-btn{
+    display: inline-block;
+    height: 100%;
+    transition: 0.4s ease;
+    cursor: pointer;
+}
+
+#sidebar{
+    float: left;
+    width: 138px;
+    min-height: 762px;
+    padding: 20px;
+    background-color: lightgray;
+    text-align: center;
+    font-size: 18px;
+    border-right: 2px dotted #666666;
+}
+
+#navbar{
+    width: 1416px;
+    height: 40px;
+    background-color: #dedede;
+    border-bottom: 2px dotted #666666;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+#content {
+    float: left;
+    padding: 2px;
+    width: 1416px;
+    background-color: #dedede;
+    min-height: 650px;
+    text-align: justify;
+}
+
+ul {
+    position: relative;
+    margin: 0px;
+    padding: 4px 0;
+    display: flex;
+    transform: translate(0, 0%);
+    float: left;
+}
+
+ul li{
+    list-style: none;
+    display: block;
+    background-color: transparent;
+}
+
+ul li a{
+    padding: 0 4px;
+    display: block;
+}
+
+ul li a .icon{
+    width: 40px;
+    height: 40px;
+    text-align: center;
+    padding-left: 4px;
+    overflow: hidden;
+    margin: 0 auto 2px;
+}
+
+ul li a .icon .fas{
+    width: 100%;
+    height: 100%;
+    line-height: 40px;
+    font-size: 34px;
+    transition: 0.5s;
+    color: #000;
+}
+
+ul li a .icon .fas:last-child{
+    color: #e91e63;
+}
+
+ul li a:hover .icon .fas{
+    transform: translateY(-100%);
+}
+
+ul li a .icon-disabled{
+    width: 40px;
+    height: 40px;
+    text-align: center;
+    padding-left: 4px;
+    overflow: hidden;
+    margin: 0 auto 2px;
+}
+
+ul li a .icon-disabled .fas{
+    width: 100%;
+    height: 100%;
+    line-height: 40px;
+    font-size: 34px;
+    transition: 0.5s;
+    color: #000;
+}
+
+ul li a .icon-disabled .fas:last-child{
+     color: #000;
+ }
+
+.option {
+    float: right;
+    min-width: 50px;
+    height: 25px;
+    font-size: 18px;
+    padding: 10px;
+    border-right: 2px dotted #444444;
+    opacity: 0.8;
+}
+
+.option:hover {
+    background-color: #000000;
+    cursor: pointer;
+}
+
+.optionSO {
+    float: right;
+    min-width: 50px;
+    height: 25px;
+    font-size: 18px;
+    padding: 10px;
+    border-right: 2px dotted #444444;
+    opacity: 0.8;
+}
+
+.optionL {
+    font-size: 18px;
+    height: 25px;
+    padding: 10px;
+    border-bottom: 2px dotted #444444;
+    text-decoration: none;
+}
+
+.optionL:hover {
+    background-color: #f36742;
+    color: white;
+    cursor: pointer;
+    text-decoration: none;
+}
+
+.optionL:hover > a {
+    color: #451717;
+}
+
+#footer {
+    clear: both;
+    color: white;
+    text-align: center;
+    padding: 20px;
+    font-size: 18px;
+}
+
+a:hover, a:visited, a:link, a:active {
+    text-decoration: none;
+    color: #ffffff;
+}
+
+table {
+    align: center;
+    width: 100%;
+}
+
+th {
+    text-align: left;
+}
+
+table, th, td {
+    border-bottom: 1px solid #000;
+    border-collapse: collapse;
+}
+
+th, td {
+    padding: 8px;
+    font-size: 20px;
+}
+
+td {
+    border-bottom: 1px solid #ddd;
+}
+
+table td:nth-child(2) {
+    background-color: #e7e9ec;
+}
+
+.link a {
+    text-decoration: none;
+    color: #696969;
+    font-weight: bold;
+}
+
+.link a:hover {
+    text-decoration: none;
+    color: #e91e63;
+}
+
+.route-table{
+    height: 60%;
+}
+
+.route-stages{
+ /*   height: 40%;*/
+    height: 164px;
+    z-index: 1;
+    padding-top: 60px;
+    padding-left: 100px;
+    width: 100%;
+}
+
+.pg-container{
+    /*position: absolute;*/
+    height: 150px;
+    z-index: 1;
+    margin-top: 50px;
+    width: 65%;
+}
+
+.progressbar{
+    counter-reset: step;
+    box-shadow: none;
+    background-color: #dedede;;
+    margin-left: auto;
+    margin-right: auto;
+    width: 1000px;
+}
+
+.progressbar li {
+    list-style: none;
+    float: left;
+    width: 25%;
+    position: relative;
+    text-align: center;
+    cursor: pointer;
+}
+
+.progressbar li:before {
+    content: counter(step);
+    counter-increment: step;
+    width: 60px;
+    height: 60px;
+    border: 2px solid #bebebe;
+    display: block;
+    margin: 0 auto 10px auto;
+    border-radius: 50%;
+    line-height: 60px;
+    background: white;
+    color: #bebebe;
+    text-align: center;
+    font-weight: bold;
+}
+
+.progressbar li:after{
+    content: '';
+    position: absolute;
+    width:100%;
+    height: 3px;
+    background: #979797;
+    top: 30px;
+    left: -50%;
+    z-index: -1;
+}
+
+.progressbar li:first-child:after{
+    content: none;
+}
+
+.progressbar li:active{
+    color: green;
+}
+
+.progressbar li.active:before{
+    color: white;
+    background: #3aac5d;
+    border-color: #3aac5d;
+}
+
+.progressbar li.active + li:after{
+    background: #3aac5d;
+}
+
+.edit-text {
+    border: none;
+    background-color: transparent;
+    font-family: sans-serif;
+    font-size: 20px;
+}
