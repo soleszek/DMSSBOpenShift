@@ -49,6 +49,11 @@ public class UserController {
         binder.setValidator(userValidator);
     }
 
+    @RequestMapping("/")
+    public String index(){
+        return "Greetings from Spring Boot";
+    }
+
     @GetMapping("/dashboard")
     private ModelAndView showDashboard() {
         ModelAndView mov = new ModelAndView();
