@@ -10,7 +10,8 @@ public class MvcConfig {
     public InternalResourceViewResolver viewResolver(){
         InternalResourceViewResolver resolver
                 = new InternalResourceViewResolver();
-        resolver.setPrefix("/WEB-INF/jsp/");
+        /*resolver.setPrefix("/WEB-INF/jsp/");*/
+        resolver.setPrefix("/");
         resolver.setSuffix(".jsp");
         return resolver;
     }

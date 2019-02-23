@@ -176,8 +176,8 @@
         Sylwester Oleszek 2018 &copy;
     </div>
 
-    <script src="../../jsscripts/clock.js"></script>
-    <script src="../../jsscripts/calc.js"></script>
+    <script src="jsscripts/clock.js"></script>
+    <script src="jsscripts/calc.js"></script>
 
 </div>
 
