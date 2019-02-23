@@ -7,7 +7,7 @@
 <head>
     <meta charset="utf-8">
     <title>User registration</title>
-    <link rel="stylesheet" href="style/style.css" type="text/css">
+    <link rel="stylesheet" href="../../style/style.css" type="text/css">
 
     <style>
         .error {
@@ -68,7 +68,7 @@
     <form:errors path="password" cssStyle="color: red"/><br>
 </form:form>
 
-<script src="jsscripts/dropdownmenu.js"></script>
+<script src="../../jsscripts/dropdownmenu.js"></script>
 
 </body>
 </html>

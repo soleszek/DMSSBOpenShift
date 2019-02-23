@@ -1,7 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b9a7bf23-98d4-47af-833b-f1b7fba1b53e" name="Default Changelist" comment="" />
+    <list default="true" id="b9a7bf23-98d4-47af-833b-f1b7fba1b53e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/oleszeksylwester/dmssb/DMSSB/config/MvcConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/oleszeksylwester/dmssb/DMSSB/config/MvcConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/adminpanel.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/adminpanel.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/advancedsearch.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/advancedsearch.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/allusers.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/allusers.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/dashboard.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/dashboard.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/document.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/document.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/documents.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/documents.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/lifecycle.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/lifecycle.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/login.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/login.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/message.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/message.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/messages-deleted.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/messages-deleted.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/messages-received-old.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/messages-received-old.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/messages-received.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/messages-received.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/messages-sent.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/messages-sent.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/messages-unread.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/messages-unread.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/quicksearch.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/quicksearch.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/registration.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/registration.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/revisions.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/revisions.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/route.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/route.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/routes.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/routes.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/routeslist.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/routeslist.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/searchresultsroutes.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/searchresultsroutes.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/searchresultstasks.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/searchresultstasks.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/searchresultsusers.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/searchresultsusers.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/task.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/task.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/tasks.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/tasks.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/user.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/user.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/viewer.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/viewer.jsp" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -135,21 +164,23 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="java" value="3" />
+          <entry key="properties" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="JAVA" value="3" />
+          <entry key="Properties" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="64" />
+          <entry key="java" value="65" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="64" />
+          <entry key="JAVA" value="65" />
         </counts>
       </usages-collector>
     </session>
@@ -196,8 +227,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/oleszeksylwester/dmssb/DMSSB/config/MvcConfig.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+            <state relative-caret-position="135">
+              <caret line="11" column="53" selection-start-line="11" selection-start-column="53" selection-end-line="11" selection-end-column="53" />
             </state>
           </provider>
         </entry>
@@ -226,7 +257,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/com/oleszeksylwester/dmssb/DMSSB/service/SearchService.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/oleszeksylwester/dmssb/DMSSB/controller/SearchController.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/oleszeksylwester/dmssb/DMSSB/model/Document.java" />
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/adminpanel.jsp" />
@@ -277,6 +307,7 @@
         <option value="$PROJECT_DIR$/src/main/java/com/oleszeksylwester/dmssb/DMSSB/config/WebSecurityConfig.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/oleszeksylwester/dmssb/DMSSB/config/DataConfig.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/oleszeksylwester/dmssb/DMSSB/controller/UserController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/oleszeksylwester/dmssb/DMSSB/config/MvcConfig.java" />
       </list>
     </option>
   </component>
@@ -309,7 +340,7 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="y" value="34" />
     <option name="width" value="956" />
     <option name="height" value="1046" />
@@ -416,6 +447,13 @@
               <item name="DMSSBOpenShift" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DMSSBOpenShift" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DMSSBOpenShift" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="webapp" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -458,8 +496,16 @@
     <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp" />
+      <recent name="$PROJECT_DIR$/src/main/webapp" />
+      <recent name="$PROJECT_DIR$/src/main/webapp/WEB-INF" />
+    </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="com.oleszeksylwester.dmssb.DMSSB.config" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.oleszeksylwester.dmssb.DMSSB.utils" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp" />
@@ -467,13 +513,6 @@
       <recent name="$PROJECT_DIR$/src/main/webapp/style" />
       <recent name="$PROJECT_DIR$/src/main/java/com/oleszeksylwester/dmssb/DMSSB/enums" />
       <recent name="$PROJECT_DIR$/src/main/java/com/oleszeksylwester/dmssb/DMSSB/factory" />
-    </key>
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="com.oleszeksylwester.dmssb.DMSSB.utils" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src/main/webapp" />
-      <recent name="$PROJECT_DIR$/src/main/webapp/WEB-INF" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -675,7 +714,7 @@
       <workItem from="1550685409023" duration="18624000" />
       <workItem from="1550910120012" duration="32094000" />
       <workItem from="1550954561570" duration="21000" />
-      <workItem from="1550954738151" duration="1831000" />
+      <workItem from="1550954738151" duration="2713000" />
     </task>
     <servers />
   </component>
@@ -712,7 +751,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="382392000" />
+    <option name="totallyTimeSpent" value="383274000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -724,7 +763,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="34" width="956" height="1046" extended-state="0" />
+    <frame x="0" y="34" width="1920" height="1046" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Structure" order="0" sideWeight="0.50108224" side_tool="true" weight="0.17465389" />
@@ -734,7 +773,7 @@
       <window_info id="Capture Tool" order="4" />
       <window_info id="Image Layers" order="5" />
       <window_info id="Web" order="6" sideWeight="0.50108224" side_tool="true" weight="0.17465389" />
-      <window_info active="true" content_ui="combo" id="Project" order="7" sideWeight="0.49891776" visible="true" weight="0.38402626" />
+      <window_info active="true" content_ui="combo" id="Project" order="7" sideWeight="0.49891776" visible="true" weight="0.18690096" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32900432" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.21645021" />
@@ -831,13 +870,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/application.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="39" selection-start-line="1" selection-start-column="39" selection-end-line="1" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/oleszeksylwester/dmssb/DMSSB/DmssbApplication.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
@@ -885,6 +917,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="639">
           <caret line="71" selection-start-line="71" selection-end-line="71" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -927,6 +962,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="27" column="13" selection-start-line="27" selection-start-column="13" selection-end-line="27" selection-end-column="13" />
+          <folding>
+            <element signature="e#5882#5883#0" expanded="true" />
+            <element signature="e#5933#5934#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -955,6 +994,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="434">
           <caret line="71" selection-start-line="71" selection-end-line="71" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1017,10 +1059,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="39" selection-start-line="1" selection-start-column="39" selection-end-line="1" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/oleszeksylwester/dmssb/DMSSB/config/MvcConfig.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        <state relative-caret-position="135">
+          <caret line="11" column="53" selection-start-line="11" selection-start-column="53" selection-end-line="11" selection-end-column="53" />
         </state>
       </provider>
     </entry>

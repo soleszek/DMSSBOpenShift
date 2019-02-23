@@ -3,7 +3,7 @@
 <head>
     <meta charset="utf-8">
     <title>Data Management System</title>
-    <link rel="stylesheet" href="style/style.css" type="text/css">
+    <link rel="stylesheet" href="../../style/style.css" type="text/css">
 </head>
 <body>
     <form action="/login" method="post">

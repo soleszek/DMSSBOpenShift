@@ -390,7 +390,7 @@
             <div class="imgcontainer">
                 <span onclick="document.getElementById('modal-wrapper').style.display='none'" class="close"
                       title="Close PopUp">&times;</span>
-                <img src="style/document.jpg" alt="Document" class="avatar">
+                <img src="../../style/document.jpg" alt="Document" class="avatar">
                 <h1 style="text-align:center">Create new document</h1>
             </div>
 
