@@ -13,12 +13,14 @@ import org.springframework.test.context.junit4.SpringRunner;
 import java.util.HashSet;
 
 import static org.assertj.core.api.AssertionsForClassTypes.assertThat;
+/*
 
 @RunWith(SpringRunner.class)
 @DataJpaTest
 public class UserRepositoryTest {
 
-    /*@Autowired
+    */
+/*@Autowired
     private TestEntityManager entityManager;
 
     @Autowired
@@ -41,5 +43,7 @@ public class UserRepositoryTest {
         //then
         assertThat(found.getUsername())
                 .isEqualTo(user.getUsername());
-    }*/
+    }*//*
+
 }
+*/

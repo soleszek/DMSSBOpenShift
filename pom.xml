@@ -9,9 +9,10 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.oleszeksylwester.dmssb</groupId>
-	<artifactId>DMSSB</artifactId>
+	<artifactId>DMSSBOpenShift</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>DMSSB</name>
+	<packaging>jar</packaging>
+	<name>DMSSBOpenShift</name>
 	<description>Demo project for Spring Boot</description>
 
 	<properties>
@@ -83,6 +84,10 @@
 
 	<build>
 		<plugins>
+			<plugin>
+				<groupId>org.springframework.boot</groupId>
+				<artifactId>spring-boot-maven-plugin</artifactId>
+			</plugin>
 			<plugin>
 				<groupId>org.springframework.boot</groupId>
 				<artifactId>spring-boot-maven-plugin</artifactId>
