@@ -21,7 +21,7 @@ import static org.springframework.test.web.servlet.request.MockMvcRequestBuilder
 import static org.springframework.test.web.servlet.result.MockMvcResultHandlers.print;
 import static org.springframework.test.web.servlet.result.MockMvcResultMatchers.status;
 import static org.springframework.test.web.servlet.result.MockMvcResultMatchers.view;
-
+/*
 @RunWith(SpringRunner.class)
 public class UserControllerTest {
 
@@ -87,7 +87,7 @@ public class UserControllerTest {
                 .andDo(print());
     }
 
-    /*@Test
+    *//*@Test
     @WithMockUser(username = "test", password = "test", roles = "ADMIN")
     public void registerUserTest() throws Exception{
         assertThat(this.userService).isNotNull();
@@ -97,8 +97,8 @@ public class UserControllerTest {
                 .andExpect(view().name("registration"))
                 .andExpect(MockMvcResultMatchers.view().name("registration"))
                 .andDo(print());
-    }*/
+    }*//*
 
 
 
-}
+}*/

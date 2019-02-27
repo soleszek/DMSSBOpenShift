@@ -1,6 +1,6 @@
-/home/sylwester/IdeaProjects/DMSSB/src/test/java/com/oleszeksylwester/dmssb/DMSSB/DmssbApplicationTests.java
-/home/sylwester/IdeaProjects/DMSSB/src/test/java/com/oleszeksylwester/dmssb/DMSSB/config/StandaloneMvcTestViewResolver.java
-/home/sylwester/IdeaProjects/DMSSB/src/test/java/com/oleszeksylwester/dmssb/DMSSB/UserControllerTest.java
-/home/sylwester/IdeaProjects/DMSSB/src/test/java/com/oleszeksylwester/dmssb/DMSSB/UserServiceTest.java
-/home/sylwester/IdeaProjects/DMSSB/src/test/java/com/oleszeksylwester/dmssb/DMSSB/UserRepositoryTest.java
-/home/sylwester/IdeaProjects/DMSSB/src/test/java/com/oleszeksylwester/dmssb/DMSSB/config/UserServiceTestConfiguration.java
+/home/sylwester/IdeaProjects/DMSSBOpenShift/src/test/java/com/oleszeksylwester/dmssb/DMSSB/UserRepositoryTest.java
+/home/sylwester/IdeaProjects/DMSSBOpenShift/src/test/java/com/oleszeksylwester/dmssb/DMSSB/DmssbApplicationTests.java
+/home/sylwester/IdeaProjects/DMSSBOpenShift/src/test/java/com/oleszeksylwester/dmssb/DMSSB/UserControllerTest.java
+/home/sylwester/IdeaProjects/DMSSBOpenShift/src/test/java/com/oleszeksylwester/dmssb/DMSSB/config/UserServiceTestConfiguration.java
+/home/sylwester/IdeaProjects/DMSSBOpenShift/src/test/java/com/oleszeksylwester/dmssb/DMSSB/config/StandaloneMvcTestViewResolver.java
+/home/sylwester/IdeaProjects/DMSSBOpenShift/src/test/java/com/oleszeksylwester/dmssb/DMSSB/UserServiceTest.java

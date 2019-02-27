@@ -28,7 +28,6 @@ com/oleszeksylwester/dmssb/DMSSB/enums/UserRoles.class
 com/oleszeksylwester/dmssb/DMSSB/service/SearchService.class
 com/oleszeksylwester/dmssb/DMSSB/service/CustomUserDetails.class
 com/oleszeksylwester/dmssb/DMSSB/model/User.class
-com/oleszeksylwester/dmssb/DMSSB/model/Messages.class
 com/oleszeksylwester/dmssb/DMSSB/enums/RouteStates.class
 com/oleszeksylwester/dmssb/DMSSB/config/WebSecurityConfig.class
 com/oleszeksylwester/dmssb/DMSSB/service/RouteService.class

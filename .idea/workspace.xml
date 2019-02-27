@@ -2,34 +2,60 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b9a7bf23-98d4-47af-833b-f1b7fba1b53e" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/oleszeksylwester/dmssb/DMSSB/config/MvcConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/oleszeksylwester/dmssb/DMSSB/config/MvcConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/adminpanel.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/adminpanel.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/advancedsearch.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/advancedsearch.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/allusers.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/allusers.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/dashboard.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/dashboard.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/document.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/document.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/documents.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/documents.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/lifecycle.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/lifecycle.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/login.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/login.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/message.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/message.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/messages-deleted.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/messages-deleted.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/messages-received-old.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/messages-received-old.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/messages-received.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/messages-received.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/messages-sent.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/messages-sent.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/messages-unread.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/messages-unread.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/quicksearch.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/quicksearch.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/registration.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/registration.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/revisions.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/revisions.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/route.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/route.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/routes.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/routes.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/routeslist.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/routeslist.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/searchresultsroutes.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/searchresultsroutes.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/searchresultstasks.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/searchresultstasks.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/searchresultsusers.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/searchresultsusers.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/task.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/task.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/tasks.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/tasks.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/user.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/user.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/viewer.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/viewer.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/oleszeksylwester/dmssb/DMSSB/UserControllerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/oleszeksylwester/dmssb/DMSSB/UserControllerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/oleszeksylwester/dmssb/DMSSB/DmssbApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/oleszeksylwester/dmssb/DMSSB/DmssbApplication.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/oleszeksylwester/dmssb/DMSSB/config/DataConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/oleszeksylwester/dmssb/DMSSB/config/DataConfig.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/oleszeksylwester/dmssb/DMSSB/config/WebSecurityConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/oleszeksylwester/dmssb/DMSSB/config/WebSecurityConfig.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/oleszeksylwester/dmssb/DMSSB/controller/DocumentController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/oleszeksylwester/dmssb/DMSSB/controller/DocumentController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/oleszeksylwester/dmssb/DMSSB/controller/MessageController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/oleszeksylwester/dmssb/DMSSB/controller/MessageController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/oleszeksylwester/dmssb/DMSSB/controller/RouteController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/oleszeksylwester/dmssb/DMSSB/controller/RouteController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/oleszeksylwester/dmssb/DMSSB/controller/SearchController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/oleszeksylwester/dmssb/DMSSB/controller/SearchController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/oleszeksylwester/dmssb/DMSSB/controller/TaskController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/oleszeksylwester/dmssb/DMSSB/controller/TaskController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/oleszeksylwester/dmssb/DMSSB/controller/UserController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/oleszeksylwester/dmssb/DMSSB/controller/UserController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/oleszeksylwester/dmssb/DMSSB/enums/DocumentStates.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/oleszeksylwester/dmssb/DMSSB/enums/DocumentStates.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/oleszeksylwester/dmssb/DMSSB/enums/ObjectTypes.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/oleszeksylwester/dmssb/DMSSB/enums/ObjectTypes.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/oleszeksylwester/dmssb/DMSSB/enums/RouteStates.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/oleszeksylwester/dmssb/DMSSB/enums/RouteStates.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/oleszeksylwester/dmssb/DMSSB/enums/TaskStates.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/oleszeksylwester/dmssb/DMSSB/enums/TaskStates.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/oleszeksylwester/dmssb/DMSSB/enums/UserRoles.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/oleszeksylwester/dmssb/DMSSB/enums/UserRoles.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/oleszeksylwester/dmssb/DMSSB/factory/NameFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/oleszeksylwester/dmssb/DMSSB/factory/NameFactory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/oleszeksylwester/dmssb/DMSSB/model/Document$Builder.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/oleszeksylwester/dmssb/DMSSB/model/Document$Builder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/oleszeksylwester/dmssb/DMSSB/model/Document.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/oleszeksylwester/dmssb/DMSSB/model/Document.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/oleszeksylwester/dmssb/DMSSB/model/Message.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/oleszeksylwester/dmssb/DMSSB/model/Message.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/oleszeksylwester/dmssb/DMSSB/model/Role.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/oleszeksylwester/dmssb/DMSSB/model/Role.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/oleszeksylwester/dmssb/DMSSB/model/Route.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/oleszeksylwester/dmssb/DMSSB/model/Route.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/oleszeksylwester/dmssb/DMSSB/model/Task$Builder.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/oleszeksylwester/dmssb/DMSSB/model/Task$Builder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/oleszeksylwester/dmssb/DMSSB/model/Task.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/oleszeksylwester/dmssb/DMSSB/model/Task.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/oleszeksylwester/dmssb/DMSSB/model/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/oleszeksylwester/dmssb/DMSSB/model/User.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/oleszeksylwester/dmssb/DMSSB/repository/MessageRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/oleszeksylwester/dmssb/DMSSB/repository/MessageRepository.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/oleszeksylwester/dmssb/DMSSB/repository/RoleRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/oleszeksylwester/dmssb/DMSSB/repository/RoleRepository.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/oleszeksylwester/dmssb/DMSSB/repository/UserRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/oleszeksylwester/dmssb/DMSSB/repository/UserRepository.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/oleszeksylwester/dmssb/DMSSB/service/CustomUserDetails.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/oleszeksylwester/dmssb/DMSSB/service/CustomUserDetails.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/oleszeksylwester/dmssb/DMSSB/service/CustomUserDetailsService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/oleszeksylwester/dmssb/DMSSB/service/CustomUserDetailsService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/oleszeksylwester/dmssb/DMSSB/service/DocumentService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/oleszeksylwester/dmssb/DMSSB/service/DocumentService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/oleszeksylwester/dmssb/DMSSB/service/MessageService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/oleszeksylwester/dmssb/DMSSB/service/MessageService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/oleszeksylwester/dmssb/DMSSB/service/RoleService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/oleszeksylwester/dmssb/DMSSB/service/RoleService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/oleszeksylwester/dmssb/DMSSB/service/RouteService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/oleszeksylwester/dmssb/DMSSB/service/RouteService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/oleszeksylwester/dmssb/DMSSB/service/SearchService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/oleszeksylwester/dmssb/DMSSB/service/SearchService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/oleszeksylwester/dmssb/DMSSB/service/TaskService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/oleszeksylwester/dmssb/DMSSB/service/TaskService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/oleszeksylwester/dmssb/DMSSB/service/UserService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/oleszeksylwester/dmssb/DMSSB/service/UserService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/oleszeksylwester/dmssb/DMSSB/utils/DataOperations.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/oleszeksylwester/dmssb/DMSSB/utils/DataOperations.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/oleszeksylwester/dmssb/DMSSB/utils/UserValidator.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/oleszeksylwester/dmssb/DMSSB/utils/UserValidator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-com.oleszeksylwester.dmssb.DMSSB.DmssbApplicationTests.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-com.oleszeksylwester.dmssb.DMSSB.DmssbApplicationTests.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-com.oleszeksylwester.dmssb.DMSSB.UserControllerTest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-com.oleszeksylwester.dmssb.DMSSB.UserRepositoryTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-com.oleszeksylwester.dmssb.DMSSB.UserRepositoryTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-com.oleszeksylwester.dmssb.DMSSB.UserServiceTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-com.oleszeksylwester.dmssb.DMSSB.UserServiceTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/com.oleszeksylwester.dmssb.DMSSB.DmssbApplicationTests.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/com.oleszeksylwester.dmssb.DMSSB.DmssbApplicationTests.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/com.oleszeksylwester.dmssb.DMSSB.UserControllerTest.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/com.oleszeksylwester.dmssb.DMSSB.UserRepositoryTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/com.oleszeksylwester.dmssb.DMSSB.UserRepositoryTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/com.oleszeksylwester.dmssb.DMSSB.UserServiceTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/com.oleszeksylwester.dmssb.DMSSB.UserServiceTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/oleszeksylwester/dmssb/DMSSB/UserControllerTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/oleszeksylwester/dmssb/DMSSB/config/StandaloneMvcTestViewResolver.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/oleszeksylwester/dmssb/DMSSB/config/StandaloneMvcTestViewResolver.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -163,24 +189,26 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="3" />
+          <entry key="java" value="4" />
           <entry key="properties" value="1" />
+          <entry key="xml" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="3" />
+          <entry key="JAVA" value="4" />
           <entry key="Properties" value="1" />
+          <entry key="XML" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="65" />
+          <entry key="java" value="67" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="65" />
+          <entry key="JAVA" value="67" />
         </counts>
       </usages-collector>
     </session>
@@ -203,7 +231,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/com/oleszeksylwester/dmssb/DMSSB/controller/UserController.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="-88">
-              <caret line="50" lean-forward="true" selection-start-line="50" selection-end-line="54" selection-end-column="5" />
+              <caret line="50" selection-start-line="50" selection-end-line="54" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#1757#1758#0" expanded="true" />
@@ -218,17 +246,26 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/oleszeksylwester/dmssb/DMSSB/config/WebSecurityConfig.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="435">
-              <caret line="44" column="22" lean-forward="true" selection-start-line="44" selection-start-column="22" selection-end-line="44" selection-end-column="22" />
+            <state relative-caret-position="345">
+              <caret line="38" column="52" selection-start-line="34" selection-start-column="4" selection-end-line="53" selection-end-column="5" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="321">
+              <caret line="67" column="55" selection-start-line="67" selection-start-column="55" selection-end-line="67" selection-end-column="55" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/oleszeksylwester/dmssb/DMSSB/config/MvcConfig.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="11" column="53" selection-start-line="11" selection-start-column="53" selection-end-line="11" selection-end-column="53" />
+            <state relative-caret-position="230">
+              <caret line="12" column="37" selection-start-line="12" selection-start-column="37" selection-end-line="12" selection-end-column="37" />
             </state>
           </provider>
         </entry>
@@ -257,7 +294,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/com/oleszeksylwester/dmssb/DMSSB/controller/SearchController.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/oleszeksylwester/dmssb/DMSSB/model/Document.java" />
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/adminpanel.jsp" />
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/advancedsearch.jsp" />
@@ -296,7 +332,6 @@
         <option value="$PROJECT_DIR$/src/main/java/com/oleszeksylwester/dmssb/DMSSB/repository/MessageRepository.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/oleszeksylwester/dmssb/DMSSB/model/Messages.java" />
         <option value="$PROJECT_DIR$/src/main/resources/application.properties" />
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/messages-received-test.jsp" />
         <option value="$PROJECT_DIR$/src/main/webapp/style/documents-view.css" />
         <option value="$PROJECT_DIR$/src/main/webapp/jsscripts/moveToTrash.js" />
@@ -308,6 +343,8 @@
         <option value="$PROJECT_DIR$/src/main/java/com/oleszeksylwester/dmssb/DMSSB/config/DataConfig.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/oleszeksylwester/dmssb/DMSSB/controller/UserController.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/oleszeksylwester/dmssb/DMSSB/config/MvcConfig.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/oleszeksylwester/dmssb/DMSSB/UserControllerTest.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
       </list>
     </option>
   </component>
@@ -438,22 +475,6 @@
               <item name="DMSSBOpenShift" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="DMSSB" type="462c0819:PsiDirectoryNode" />
-              <item name="controller" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DMSSBOpenShift" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DMSSBOpenShift" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DMSSBOpenShift" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DMSSBOpenShift" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="webapp" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -473,6 +494,36 @@
               <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
               <item name="jsp" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="DMSSBOpenShift" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DMSSBOpenShift" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DMSSBOpenShift" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DMSSBOpenShift" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DMSSBOpenShift" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DMSSBOpenShift" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="DMSSB" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DMSSBOpenShift" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DMSSBOpenShift" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="DMSSB" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -487,7 +538,7 @@
     <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550953726852" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551289473911" />
     <property name="database.console.LAST_STATE" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -527,7 +578,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Spring Boot.DmssbApplication">
+  <component name="RunManager" selected="Maven.DMSSB [deploy]">
     <configuration name="DMSSB [clean]" type="MavenRunConfiguration" factoryName="Maven" temporary="true">
       <MavenSettings>
         <option name="myGeneralSettings" />
@@ -670,11 +721,11 @@
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Maven.DMSSB [deploy]" />
+        <item itemvalue="Maven.DMSSB [clean]" />
         <item itemvalue="Maven.DMSSB [install]" />
         <item itemvalue="Maven.DMSSB [verify]" />
-        <item itemvalue="Maven.DMSSB [deploy]" />
         <item itemvalue="Maven.DMSSB [compile]" />
-        <item itemvalue="Maven.DMSSB [clean]" />
       </list>
     </recent_temporary>
   </component>
@@ -714,7 +765,7 @@
       <workItem from="1550685409023" duration="18624000" />
       <workItem from="1550910120012" duration="32094000" />
       <workItem from="1550954561570" duration="21000" />
-      <workItem from="1550954738151" duration="2713000" />
+      <workItem from="1550954738151" duration="5172000" />
     </task>
     <servers />
   </component>
@@ -751,7 +802,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="383274000" />
+    <option name="totallyTimeSpent" value="385733000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -764,7 +815,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="34" width="1920" height="1046" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Structure" order="0" sideWeight="0.50108224" side_tool="true" weight="0.17465389" />
       <window_info id="Designer" order="1" />
@@ -773,11 +823,11 @@
       <window_info id="Capture Tool" order="4" />
       <window_info id="Image Layers" order="5" />
       <window_info id="Web" order="6" sideWeight="0.50108224" side_tool="true" weight="0.17465389" />
-      <window_info active="true" content_ui="combo" id="Project" order="7" sideWeight="0.49891776" visible="true" weight="0.18690096" />
+      <window_info content_ui="combo" id="Project" order="7" sideWeight="0.49891776" visible="true" weight="0.18690096" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32900432" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.21645021" />
-      <window_info anchor="bottom" id="Debug" order="3" visible="true" weight="0.2564935" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.45021644" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.2564935" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.1525974" />
@@ -794,7 +844,7 @@
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
-      <window_info anchor="right" id="Maven Projects" order="5" weight="0.21086262" />
+      <window_info anchor="right" id="Maven Projects" order="5" visible="true" weight="0.21086262" />
       <window_info anchor="right" id="Palette&#9;" order="6" />
       <window_info anchor="right" id="Theme Preview" order="7" />
       <window_info anchor="right" id="Bean Validation" order="8" weight="0.32960597" />
@@ -877,13 +927,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="785">
-          <caret line="75" column="21" selection-start-line="75" selection-start-column="21" selection-end-line="75" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/messages-unread.jsp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="4155">
@@ -903,13 +946,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
           <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/oleszeksylwester/dmssb/DMSSB/UserControllerTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="25" column="13" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -1041,7 +1077,7 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/com/oleszeksylwester/dmssb/DMSSB/controller/UserController.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-88">
-          <caret line="50" lean-forward="true" selection-start-line="50" selection-end-line="54" selection-end-column="5" />
+          <caret line="50" selection-start-line="50" selection-end-line="54" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#1757#1758#0" expanded="true" />
@@ -1049,13 +1085,6 @@
             <element signature="e#2889#2890#0" expanded="true" />
             <element signature="e#2919#2920#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/oleszeksylwester/dmssb/DMSSB/config/WebSecurityConfig.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="435">
-          <caret line="44" column="22" lean-forward="true" selection-start-line="44" selection-start-column="22" selection-end-line="44" selection-end-column="22" />
         </state>
       </provider>
     </entry>
@@ -1068,8 +1097,29 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/oleszeksylwester/dmssb/DMSSB/config/MvcConfig.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="11" column="53" selection-start-line="11" selection-start-column="53" selection-end-line="11" selection-end-column="53" />
+        <state relative-caret-position="230">
+          <caret line="12" column="37" selection-start-line="12" selection-start-column="37" selection-end-line="12" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/oleszeksylwester/dmssb/DMSSB/config/WebSecurityConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="38" column="52" selection-start-line="34" selection-start-column="4" selection-end-line="53" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/oleszeksylwester/dmssb/DMSSB/UserControllerTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="447">
+          <caret line="103" column="3" selection-start-line="23" selection-end-line="103" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="321">
+          <caret line="67" column="55" selection-start-line="67" selection-start-column="55" selection-end-line="67" selection-end-column="55" />
         </state>
       </provider>
     </entry>
